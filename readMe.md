@@ -1,6 +1,6 @@
 # LLAMA-Based Retrieval-Augmented Generation (RAG) for PDF Data
 
-I am building a RAG system, which goes through local pdf data, card game rule books in this project, and give its answers based of it. I am using uno, poker and marriage card game rule books as source of data for this RAG system. I am using a LLaMA model.
+I am building a RAG system, which goes through local pdf data, a research paper, and give its answers based of it. I am using a paper on GAN (Generative Adverserial Network) and its modification starGAN. I am using a LLaMA model for embedding and creating vector database.
 
 ## Methodologies
 
