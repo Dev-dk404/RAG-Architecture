@@ -2,7 +2,7 @@ from langchain_community.document_loaders import PyPDFDirectoryLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain.schema.document import Document
 
-DATA_PATH = 'data2/'
+DATA_PATH = 'data/'
 
 # Loads the data and returns document list
 def load_data():
